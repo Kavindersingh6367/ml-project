@@ -1,0 +1,12 @@
+{
+    "bottel": 0,
+    "buket": 1,
+    "comb": 2,
+    "cup": 3,
+    "cycle": 4,
+    "earbuds": 5,
+    "notebook": 6,
+    "pen": 7,
+    "phone": 8,
+    "shirt": 9
+}

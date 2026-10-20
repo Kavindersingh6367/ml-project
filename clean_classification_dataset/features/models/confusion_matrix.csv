@@ -1,0 +1,11 @@
+Actual class,bottel,buket,comb,cup,cycle,earbuds,notebook,pen,phone,shirt
+bottel,1,0,0,0,0,0,0,0,1,0
+buket,0,0,0,1,0,0,0,1,0,0
+comb,0,0,2,0,0,1,0,0,0,0
+cup,0,0,0,2,0,0,0,0,0,0
+cycle,0,0,0,0,2,0,0,1,0,0
+earbuds,0,0,0,0,0,1,0,0,1,0
+notebook,0,0,0,0,0,0,2,0,0,0
+pen,0,0,1,0,0,0,0,1,0,0
+phone,0,1,0,0,0,0,0,0,1,0
+shirt,0,0,1,0,0,0,0,1,0,1

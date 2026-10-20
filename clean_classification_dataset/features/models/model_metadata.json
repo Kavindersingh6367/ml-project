@@ -1,0 +1,27 @@
+{
+    "selected_model": "Logistic Regression",
+    "class_names": [
+        "bottel",
+        "buket",
+        "comb",
+        "cup",
+        "cycle",
+        "earbuds",
+        "notebook",
+        "pen",
+        "phone",
+        "shirt"
+    ],
+    "image_size": [
+        64,
+        64
+    ],
+    "feature_count": 12288,
+    "validation_selection_metric": "accuracy",
+    "test_metrics": {
+        "Test Accuracy (%)": 56.52,
+        "Test Precision (%)": 62.5,
+        "Test Recall (%)": 56.67,
+        "Test F1-score (%)": 55.71
+    }
+}

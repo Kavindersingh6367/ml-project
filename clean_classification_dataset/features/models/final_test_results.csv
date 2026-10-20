@@ -1,0 +1,2 @@
+Model,Test Accuracy (%),Test Precision (%),Test Recall (%),Test F1-score (%),Test images,Training images,Validation images,Feature count
+Logistic Regression,56.52,62.5,56.67,55.71,23,350,22,12288
